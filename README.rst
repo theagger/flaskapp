@@ -9,3 +9,6 @@ If you want to learn more about ``setup.py`` files, check out `this repository <
 
 The development enviroment is based on "conda create -n flask-app python=3.6.5 anaconda"
 
+Create requirement list:
+conda list -e > requirements.txt
+
